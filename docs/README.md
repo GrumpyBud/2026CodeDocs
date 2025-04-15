@@ -1,0 +1,21 @@
+# Structural Improvements for FRC Java Code
+
+This documentation is designed for Docsify and will generate a live, navigable website for your FRC codebase. Each topic below links to a detailed page. Use the sidebar for navigation.
+
+## Topics Covered
+
+- [Java Streams and Collectors](01-streams-and-collectors.md)
+- [Java Records](02-java-records.md)
+- [Lombok Annotations](03-lombok-annotations.md)
+- [Functional Interfaces and Lambdas](04-functional-interfaces-and-lambdas.md)
+- [Use of Optional](05-use-of-optional.md)
+- [Extension Methods](06-extension-methods.md)
+- [Advanced Enum Patterns](07-advanced-enum-patterns.md)
+- [AutoLog and Logging Patterns](08-autolog-and-logging-patterns.md)
+- [Design Patterns (Builder, Strategy, etc.)](09-design-patterns.md)
+- [Java Collections and Grouping](10-java-collections-and-grouping.md)
+- [Static Imports](11-static-imports.md)
+- [Debouncer and Filtering Utilities](12-debouncer-and-filtering-utilities.md)
+- [Interface-based IO Abstractions](13-interface-based-io-abstractions.md)
+- [Pair and Tuple Types](14-pair-and-tuple-types.md)
+- [Use of @Override and JavaDoc](15-override-and-javadoc.md)
